@@ -12,3 +12,6 @@ Add file or alter current project
 
 ## step 4
 Run thorugh the commands to make a commit history 
+
+## step 5
+commit to remote respotiotry
