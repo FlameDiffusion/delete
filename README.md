@@ -9,3 +9,6 @@ Configure your username and email using the command below
 git config --global user.name
 ## Step 3
 Add file or alter current project
+
+## step 4
+Run thorugh the commands to make a commit history 
